@@ -1,17 +1,14 @@
 {
   "name": "Box Breathing",
   "short_name": "Box Breath",
-  "description": "A box breathing exercise app for relaxation and focus",
+  "description": "A professional box breathing tool for relaxation",
   "start_url": "./index.html",
   "id": "./index.html",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "orientation": "portrait",
-  "categories": ["health", "lifestyle", "fitness"],
-  "lang": "en-US",
-  "dir": "ltr",
-  "prefer_related_applications": false,
+  "categories": ["health", "fitness"],
   "icons": [
     {
       "src": "icons/icon-192x192.png",
